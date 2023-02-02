@@ -32,9 +32,21 @@ Run robot one case
 ```
 python -m robot -v ENV:dev -i TC01_Receive_Cash -L TRACE --outputdir ./output ".\testcases\smoke\Test.robot"
 ```
- - Information for excuting test cases [Exuting_Test_Cases](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#executing-test-cases)
+ - Information for excuting test cases [Excuting test cases](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#executing-test-cases)
 
 ## Results
 - ...\output\log.html
 - ...\output\output.html
 - ...\output\report.html
+
+## Link for learning more
+- [Robot framework user guide](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#getting-started)
+- [Robot Framework](https://robotframework.org/?tab=1#getting-started)
+- Keyword and Library for using more 
+  [SeleniumLibrary](https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html)
+  [RequestLibrary](https://marketsquare.github.io/robotframework-requests/doc/RequestsLibrary.html)
+  [BuiltIn](https://robotframework.org/robotframework/latest/libraries/BuiltIn.html#library-documentation-top)
+  [OperatingSystem](https://robotframework.org/robotframework/latest/libraries/OperatingSystem.html)
+  [DateTime](https://robotframework.org/robotframework/latest/libraries/DateTime.html)
+- [How to use XPath_TH](https://medium.com/arcadia-software-development/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B8%E0%B9%80%E0%B8%AA%E0%B9%89%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-xpath-%E0%B9%81%E0%B8%9A%E0%B8%9A-advance-1d79ecde1f27)
+- [HTTP request method(API Test)](https://robocorp.com/docs/development-guide/http/http-examples)
