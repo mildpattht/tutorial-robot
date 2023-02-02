@@ -15,7 +15,7 @@ $ pip install -r requirements.txt
 
 ### 3. Install msedgedriver into machine
 ```
-Go to C:\Program Files\Google\Chrome\Application
+Open Microsoft Edge > Help and feedback > About Microsoft Edge
 - Install msedgedriver with same version in machine
 ``` 
  - Install msedgedriver [msedgedriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) 
