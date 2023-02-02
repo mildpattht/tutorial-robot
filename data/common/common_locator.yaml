@@ -1,0 +1,9 @@
+url: https://dsource-qa.pttdigital.com/digital/
+user_requester: sitthiporn.ph
+user_approver: prapas.b
+password: 1234
+
+login:
+  txt_username: id=txtUsername
+  txt_password: id=txtPassword
+  btn_login: id=btnLogin
